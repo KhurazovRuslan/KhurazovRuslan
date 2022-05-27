@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-### My name is Ruslan Khurazov and I'm data science and machine learning enthusiast currently based in Moscow, Russia. You can find me on <a href='https://www.linkedin.com/in/ruslan-khurazov-653b611a8/?locale=en_US'> ![alt text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> or <a href='https://www.instagram.com/ruslankhurazov/'>![alt text](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>. I also write about the projects I worked on. Check out my blogposts on <a href='https://khurazovruslan.medium.com/'>![alt text](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>.
+### My name is Ruslan Khurazov and I'm data science enthusiast from Uzbekistan, currently in Mexico. You can find me on <a href='https://www.linkedin.com/in/ruslan-khurazov-653b611a8/?locale=en_US'> ![alt text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> or <a href='https://www.instagram.com/ruslankhurazov/'>![alt text](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>. I also write about the projects I worked on. Check out my blogposts on <a href='https://khurazovruslan.medium.com/'>![alt text](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>.
   
  ### 📈 GitHub Stats:
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhurazovRuslan&theme=dark "Ruslan’s Top Languages Card")[![Ruslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhurazovRuslan&theme=dark&show_icons=true&count_private=true "Ruslan’ GutHub Stats")]
